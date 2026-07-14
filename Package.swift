@@ -21,8 +21,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LimelightSDKLevelPlayAdapter",
-            url: "https://limelight-sdk.s3.amazonaws.com/iOS/LimelightSDKLevelPlayAdapter/0.1.2/LimelightSDKLevelPlayAdapter.xcframework.zip",
-            checksum: "bbb65bde75f46dc9d895211c94e0d1ca82084f56bf78f4006fe76e03190aca3c"
+            url: "https://limelight-sdk.s3.amazonaws.com/iOS/LimelightSDKLevelPlayAdapter/1.0.0/LimelightSDKLevelPlayAdapter.xcframework.zip",
+            checksum: "74506108bd465f1d0e2217074e0651562265522e2d00ccf9ac2b15972519c475"
         ),
         .binaryTarget(
             name: "IronSource",
